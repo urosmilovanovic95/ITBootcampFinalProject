@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Test-Suite" >
+    <test name="Final_Project_ITBootcamp" >
+        <classes>
+            <class name="test.TestWomenHover"/>
+            <class name="test.TestDressesHover"/>
+            <class name="test.TestCorrectURLs"/>
+            <class name="test.TestChooseDress"/>
+            <class name="test.TestCart"/>
+            <class name="test.TestSearchBar"/>
+            <class name="test.TestContactUs"/>
+            <class name="test.TestSocialLinks"/>
+            <class name="test.TestCreate30acc"/>
+            <class name="test.TestSendMessages"/>
+        </classes>
+    </test>
+</suite>
